@@ -28,7 +28,8 @@
                                             }
 ```
 [생활코딩][coding]
-[coding]: https://opentutorials.org/course/1 "생활코딩 사이트로 이동"
+[coding]: https://opentutorials.org/course/1 "생활코딩 사이트로 이동"  
+[생활코팅](https://opentutorials.org/course/1)
 
 
 
